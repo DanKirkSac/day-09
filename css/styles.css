@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+.text-column {
+    column-count: 4;
+    column-gap: 10px; 
+}
+.float-left {
+    float: left;
+}
+
+.column-50 {
+    width: 50%;
+}
+.primary-bg {
+    background-color: lightblue;
+}
